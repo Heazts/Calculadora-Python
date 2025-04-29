@@ -56,7 +56,7 @@ Aqui estão alguns exemplos práticos para você testar:
 ---
 
 ## 📸 Capturas de tela  
-![Calculadora Tema Escuro](https://raw.githubusercontent.com/Heazts/Calculadora-Python/refs/heads/main/Calculadora.png)  
+![Calculadora](https://github.com/Heazts/Calculadora-Python/blob/main/Calculadora.png?raw=true)  
 
 ---
 
