@@ -56,7 +56,7 @@ Aqui estão alguns exemplos práticos para você testar:
 ---
 
 ## 📸 Capturas de tela  
-![Calculadora](https://github.com/user-attachments/assets/6670364e-88f1-4be4-be51-b15f1e4efb1f)
+![Calculadora](https://raw.githubusercontent.com/Heazts/Calculadora-Python/main/Calculadora.png)
 
 ---
 
