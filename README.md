@@ -1,4 +1,4 @@
-# Calculadora 🧮✨
+# Calculadora 🧮
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Licença](https://img.shields.io/badge/Licença-MIT-000000?style=for-the-badge&logo=Open-Source-Initiative&logoColor=white)
